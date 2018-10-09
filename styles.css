@@ -1,0 +1,33 @@
+
+
+.navbar-dark .navbar-brand {
+    color: red;
+}
+
+h1.display-4 {
+    padding:100px;
+    color: #061982;
+    font-family: 'Goblin One', cursive;
+    font-size: 80px;
+}
+
+.jumbotron {
+    background-image: url(england-squad.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    
+}
+
+.logo {
+    height:150px;
+}
+
+.headimage {
+    height:80px;
+}
+
+h2 {
+    color: black;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 30px;
+}
